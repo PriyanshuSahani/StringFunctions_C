@@ -2,7 +2,7 @@
 #include "String.h"
 
 int main() {
-	char str1[15] = "Hello";
+	char str1[20] = "Hel4oqwerty";
 	char *str2 = "Hel5wd";
 	
 	printf("Comparision between the strings gives: %d\n",
